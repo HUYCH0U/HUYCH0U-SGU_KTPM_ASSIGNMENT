@@ -1,0 +1,13 @@
+git init
+git status
+git add.
+git commit -m"MASSAGE"
+GIT log =>>>>  log maấy cái commit(message)
+git branch=>> check branch hiện tại 
+git branch --list =>> xem các branch hiện tại
+git checkout <tbranch name> =>> đối sang branch khác  
+git fetch origin => thêm branch mới vào repo trên máy nếu chưa có brand đó
+git branch + tên =>> tạo branch mới
+git push --set-upstream origin (tên branch khác) =>> up cái branch mới lên repo
+git push =>> đẩy code đã commit lên repo
+git pull =>> kéo code của branch đang ở trên repo về máy 
