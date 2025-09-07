@@ -18,4 +18,5 @@ int num2 ;
 int num3 ;
 cin >> num1 >> num2 >> num3;
  cout<< findMax(num1, num2, num3);
+ cout<<"helllo";
 }
