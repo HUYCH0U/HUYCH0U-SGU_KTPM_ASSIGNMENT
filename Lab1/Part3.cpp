@@ -47,7 +47,7 @@ int main()
     int n = solveQuartic(a, b, c, x);
     if (n == -1)
     {
-        cout << " Infinite solutions." << endl;
+        cout << "Infinite solutions." << endl;
     }
     else if (n == 0)
     {
@@ -55,7 +55,7 @@ int main()
     }
     else
     {
-        cout << " The equation has " << n << " real solution(s): ";
+        cout << "The equation has " << n << " real solution(s): ";
         for (int i = 0; i < n; i++)
         {
             cout << x[i] << " ";
